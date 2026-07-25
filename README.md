@@ -23,9 +23,9 @@ This repository documents my C++ learning journey, where I practice concepts, so
 - ✅ Hello World
 - ✅ variables
 - ✅ data types
-- ✅  variable data type
-- ✅  arithmatic operations
-- 
+- ✅ variable data type
+- ✅ arithmatic operations
+- ✅ IF_function
 
 ## Goals
 
