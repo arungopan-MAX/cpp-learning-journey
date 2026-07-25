@@ -11,12 +11,17 @@ This repository documents my C++ learning journey, where I practice concepts, so
 ```
 01-Basics/
 ```
+## project developments
 
+-    basic calculator
+-    
 ## Current Progress
 
 - ✅ Hello World
 - ✅ variables
 - ✅ data types
+-    variable data type
+-    arithmatic operations 
 
 ## Goals
 
