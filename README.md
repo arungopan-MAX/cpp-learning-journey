@@ -16,7 +16,7 @@ This repository documents my C++ learning journey, where I practice concepts, so
 
 - ✅ Hello World
 - ✅ variables
-- ✅ data 
+- ✅ data types
 
 ## Goals
 
