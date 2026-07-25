@@ -13,15 +13,15 @@ This repository documents my C++ learning journey, where I practice concepts, so
 ```
 ## project developments
 
--    basic calculator
+- ✅ basic calculator
 -    
 ## Current Progress
 
 - ✅ Hello World
 - ✅ variables
 - ✅ data types
--    variable data type
--    arithmatic operations 
+- ✅  variable data type
+- ✅  arithmatic operations 
 
 ## Goals
 
