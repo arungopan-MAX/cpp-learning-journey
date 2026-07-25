@@ -10,6 +10,7 @@ This repository documents my C++ learning journey, where I practice concepts, so
 
 ```
 01-Basics/
+02-projects/
 ```
 ## project developments
 
