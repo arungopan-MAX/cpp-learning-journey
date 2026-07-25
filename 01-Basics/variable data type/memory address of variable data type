@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main() 
+{
+    int a=10;
+    float b=3.1420;
+    double d=4.65463;
+    
+    cout<<"address of int= \n"<<a;   
+    cout<<"address of float= \n"<<b;   
+    cout<<"address of double= \n"<<c;
+    
+    return 0;
+}
