@@ -9,8 +9,8 @@ This repository documents my C++ learning journey, where I practice concepts, so
 ## Repository Structure
 
 ```
-01-Basics/
-02-projects/
+01-Basics
+02-projects
 ```
 ## project developments
 
