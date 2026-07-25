@@ -15,14 +15,17 @@ This repository documents my C++ learning journey, where I practice concepts, so
 ## project developments
 
 - ✅ basic calculator
--    
+- ✅ finding area of cirlce
+- ✅ finding cube of sphere
+- ✅ finding circumference of circle
 ## Current Progress
 
 - ✅ Hello World
 - ✅ variables
 - ✅ data types
 - ✅  variable data type
-- ✅  arithmatic operations 
+- ✅  arithmatic operations
+- 
 
 ## Goals
 
