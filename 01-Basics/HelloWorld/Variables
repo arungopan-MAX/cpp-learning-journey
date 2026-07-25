@@ -1,0 +1,16 @@
+#include <iostream>
+#include <string>
+
+int main() 
+{
+    string name = "Arun";
+    int age = 18;
+    float height = 168.0;
+
+    
+    cout << "Name: " << name << std::endl;
+    cout << "Age: " << age << std::endl;
+    cout << "Height: " << height << " cm" << std::endl;
+
+    return 0;
+}
