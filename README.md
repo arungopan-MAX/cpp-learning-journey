@@ -15,6 +15,8 @@ This repository documents my C++ learning journey, where I practice concepts, so
 ## Current Progress
 
 - ✅ Hello World
+- ✅ variables
+- ✅ data 
 
 ## Goals
 
