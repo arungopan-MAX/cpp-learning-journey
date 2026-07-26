@@ -1,4 +1,4 @@
-# C++ Learning Journey 🚀
+# C++ Learning Journey 
 
 Hi, I'm Arun.
 
@@ -10,23 +10,27 @@ This repository documents my C++ learning journey, where I practice concepts, so
 
 ```
 01-Basics
-02-projects
+02-Projects
+03-Functions
 ```
-## project developments
+## Project developments
 
-- ✅ basic calculator
-- ✅ finding area of cirlce
-- ✅ finding cube of sphere
-- ✅ finding circumference of circle
+- ✅ Basic calculator
+- ✅ Finding area of cirlce
+- ✅ Finding cube of sphere
+- ✅ Finding circumference of circle
 ## Current Progress
 
 - ✅ Hello World
-- ✅ variables
-- ✅ data types
-- ✅ variable data type
-- ✅ arithmatic operations
+- ✅ Variables
+- ✅ Data types
+- ✅ Variable data type
+- ✅ Arithmatic operations
 - ✅ IF_function
 
+FUNCTION LEARNING
+- ✅ Error and exceptions
+- ✅ library_Functions 
 ## Goals
 
 - Learn Modern C++
