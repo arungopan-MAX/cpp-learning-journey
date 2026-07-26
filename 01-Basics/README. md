@@ -1,0 +1,77 @@
+# 🚀 C++ Learning Journey
+
+Welcome to my C++ learning repository!
+
+This repository contains all the C++ programs and exercises I write while learning programming from the basics. My goal is to build a strong foundation in C++, Data Structures & Algorithms, and Software Development.
+
+---
+
+## 📂 Repository Structure
+
+```
+01-Basics/
+├── HelloWorld/
+├── Variables/
+├── DataTypes/
+├── ArithmeticOperations/
+├── IF_Function/
+├── Swapping/
+├── Projects/
+```
+
+More topics will be added as I continue learning.
+
+---
+
+## 📚 Topics Covered
+
+- ✅ Hello World
+- ✅ Variables
+- ✅ Data Types
+- ✅ Arithmetic Operations
+- ✅ If Statements
+- ✅ Functions
+- ✅ Swapping
+- 🔄 More coming soon...
+
+---
+
+## 🎯 Learning Goals
+
+- Master C++ fundamentals
+- Learn Object-Oriented Programming (OOP)
+- Solve Data Structures & Algorithms problems
+- Build real-world C++ projects
+- Prepare for Software Engineering interviews
+
+---
+
+## 🛠️ Tools Used
+
+- Language: C++
+- IDE: VS Code
+- Version Control: Git & GitHub
+
+---
+
+## 📈 Progress
+
+- [✅] Basics
+- [ ] Loops
+- [ ] Arrays
+- [ ] Strings
+- [ ] Pointers
+- [ ] Functions
+- [ ] OOP
+- [ ] STL
+- [ ] DSA
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: **@arungopan-MAX**
+
+---
+
+⭐ If you're also learning C++, feel free to explore this repository and follow my journey!
