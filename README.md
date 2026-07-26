@@ -13,13 +13,19 @@ This repository documents my C++ learning journey, where I practice concepts, so
 02-Projects
 03-Functions
 ```
+
+
 ## Project developments
 
 - ✅ Basic calculator
 - ✅ Finding area of cirlce
 - ✅ Finding cube of sphere
 - ✅ Finding circumference of circle
+
+
 ## Current Progress
+
+BASICS:
 
 - ✅ Hello World
 - ✅ Variables
@@ -28,9 +34,12 @@ This repository documents my C++ learning journey, where I practice concepts, so
 - ✅ Arithmatic operations
 - ✅ IF_function
 
-FUNCTION LEARNING
+FUNCTION LEARNING:
+
 - ✅ Error and exceptions
-- ✅ library_Functions 
+- ✅ library_Functions
+
+  
 ## Goals
 
 - Learn Modern C++
