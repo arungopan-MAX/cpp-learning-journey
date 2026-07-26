@@ -18,9 +18,9 @@ This repository documents my C++ learning journey, where I practice concepts, so
 ## Project developments
 
 - ✅ Basic calculator
-- ✅ Finding area of cirlce
-- ✅ Finding cube of sphere
-- ✅ Finding circumference of circle
+- ✅ Area of cirlce calculator
+- ✅ Cube of sphere calculator
+- ✅ Circumference of circle calculator
 
 
 ## Current Progress
