@@ -1,0 +1,72 @@
+# 💻 C++ Mini Projects
+
+This folder contains beginner-friendly C++ projects that I built while learning C++ programming. These projects help me practice concepts such as variables, input/output, arithmetic operations, functions, and problem-solving.
+
+---
+
+## 📂 Projects
+
+### 🧮 Calculator
+- Perform basic arithmetic operations
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+**File:** `calculator.cpp`
+
+---
+
+### ⭕ Area of a Circle
+Calculates the area of a circle using the formula:
+
+Area = π × r²
+
+**File:** `area_of_circle.cpp`
+
+---
+
+### 🔵 Circumference of a Circle
+Calculates the circumference of a circle using the formula:
+
+Circumference = 2 × π × r
+
+**File:** `circumference_of_circle.cpp`
+
+---
+
+### 🌍 Sphere Volume Calculator
+Calculates the volume of a sphere using the formula:
+
+Volume = (4/3) × π × r³
+
+**File:** `cube_of_sphere.cpp`
+
+---
+
+## 📚 Concepts Practiced
+
+- User Input & Output
+- Variables
+- Data Types
+- Arithmetic Operators
+- Mathematical Formulas
+- Problem Solving
+
+---
+
+## 🎯 Goal
+
+I will continue adding more C++ mini projects as I progress through my learning journey.
+
+Upcoming ideas:
+- ✅ Number Guessing Game
+- ✅ ATM Management System
+- ✅ Student Management System
+- ✅ Tic Tac Toe
+- ✅ Bank Management System
+- ✅ Library Management System
+
+---
+
+⭐ Every project in this folder represents a step forward in my C++ learning journey.
